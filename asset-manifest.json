@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/msOffice/static/css/main.96a6fe2b.css",
+    "main.js": "/msOffice/static/js/main.7faf4230.js",
+    "index.html": "/msOffice/index.html",
+    "main.96a6fe2b.css.map": "/msOffice/static/css/main.96a6fe2b.css.map",
+    "main.7faf4230.js.map": "/msOffice/static/js/main.7faf4230.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96a6fe2b.css",
+    "static/js/main.7faf4230.js"
+  ]
+}
