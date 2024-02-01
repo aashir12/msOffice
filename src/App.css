@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+.text-gradient{
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-image: linear-gradient(to right,#D55352, #436ECA, #956FC2);
+}
+
+.img-bg{
+    
+    background-image: linear-gradient(to bottom, #E3E9FC, #fff);
+}
+.product-bg{
+    
+    background-image: linear-gradient(to bottom, #FFF4ED, #fff);
+}
+.active{
+    color: #D83B01;
+    background: #fff;
+}
