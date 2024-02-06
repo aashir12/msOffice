@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/msOffice/static/css/main.96a6fe2b.css",
-    "main.js": "/msOffice/static/js/main.7faf4230.js",
+    "main.css": "/msOffice/static/css/main.19a774ff.css",
+    "main.js": "/msOffice/static/js/main.9e38939a.js",
     "index.html": "/msOffice/index.html",
-    "main.96a6fe2b.css.map": "/msOffice/static/css/main.96a6fe2b.css.map",
-    "main.7faf4230.js.map": "/msOffice/static/js/main.7faf4230.js.map"
+    "main.19a774ff.css.map": "/msOffice/static/css/main.19a774ff.css.map",
+    "main.9e38939a.js.map": "/msOffice/static/js/main.9e38939a.js.map"
   },
   "entrypoints": [
-    "static/css/main.96a6fe2b.css",
-    "static/js/main.7faf4230.js"
+    "static/css/main.19a774ff.css",
+    "static/js/main.9e38939a.js"
   ]
 }
