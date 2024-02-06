@@ -5,7 +5,7 @@ const Land = () => {
   return (
     <>
         <div className='cover bg-[#E4E9FC]  flex justify-center items-center flex-col '>
-            <div className='boxer w-[40%] text-center md:w-[50%] lg:my-2'>
+            <div className='boxer w-[80%] text-center md:w-[50%] lg:my-2 lg:w-[40%]' >
                 <img src='/capture.png'
                     className='m-auto'
                 />
